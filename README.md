@@ -2,7 +2,7 @@
 
 This is the Code for the Bachelor's Thesis "Neural ODE for physical problems" by Tim Beyer.
 
-All scripts should be run from the main trajectory, e.g.;
+All scripts should be run from the main directory, e.g.;
 ```
 python3 experiments/densenet.py --system=airplane_lat_long
 ```
